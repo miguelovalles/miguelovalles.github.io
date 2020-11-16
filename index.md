@@ -1,36 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Miguel Ovalles CS-499's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/miguelovalles/miguelovalles.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This GitHub page was created to showcase my project updates for my CS-499 course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The CS-499 Course is the final course I am taking to complete my Bachelor's Degree in Computer Science.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Artifacts I used for CS-499
 
-1. Numbered
-2. List
+## Category One: Software Design and Engineering
 
-**Bold** and _Italic_ and `Code` text
+1. zooAuthentication Program - Course: IT-145
 
-[Link](url) and ![Image](src)
+### Category Two: Algorithms and Data Structure
+
+2. zooAuthentication Program - Course: IT-145
+
+#### Category Three: Databases
+
+3. MySQL Tasks - Course DAD-220
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miguelovalles/miguelovalles.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

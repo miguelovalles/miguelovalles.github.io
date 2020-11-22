@@ -11,15 +11,15 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 1. zooAuthentication Program - Course: IT-145
 
-### Category Two: Algorithms and Data Structure
+## Category Two: Algorithms and Data Structure
 
 2. zooAuthentication Program - Course: IT-145
 
-#### Category Three: Databases
+## Category Three: Databases
 
 3. MySQL Tasks - Course DAD-220
 
-##### Code Review Link/URL
+## Code Review Link/URL
 
 4. Link to [Code Review URL .md](CodeReview.md) or use this URL to directly download the video. [Code Review Download](http://gofile.me/2ATFw/y7PvIvcgQ).
 

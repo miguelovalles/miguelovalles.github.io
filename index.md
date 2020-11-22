@@ -5,8 +5,6 @@ This GitHub page was created to showcase my project updates for my CS-499 course
 The CS-499 Course is the final course I am taking to complete my Bachelor's Degree in Computer Science.
 
 
-```markdown
-
 # Artifacts I used for CS-499
 
 ## Category One: Software Design and Engineering
@@ -22,8 +20,8 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 3. MySQL Tasks - Course DAD-220
 
 ##### Code Review Link/URL
-```
-Link to [Code Review URL .md](CodeReview.md) or use this URL to directly download the video. [Code Review Download](http://gofile.me/2ATFw/y7PvIvcgQ).
+
+4. Link to [Code Review URL .md](CodeReview.md) or use this URL to directly download the video. [Code Review Download](http://gofile.me/2ATFw/y7PvIvcgQ).
 
 ***When accessing the video, you will be prompted to download it first***
 

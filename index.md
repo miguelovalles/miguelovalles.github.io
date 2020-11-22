@@ -9,7 +9,7 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 ### Category One: Software Design and Engineering
 
-1. zooAuthentication Program - Course: IT-145 [Link to zooAuthentication](miguelovalles.github.io/zooAthentication)
+1. zooAuthentication Program - Course: IT-145 [Link to zooAuthentication](miguelovalles.github.io/zooAthentication/)
 
 ### Category Two: Algorithms and Data Structure
 

@@ -21,9 +21,9 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 3. MySQL Tasks - Course DAD-220
 
-#####
+##### Code Review Link/URL
 
-4. Link to [Code Review URL](./CodeReview.md)
+4. Link to [Code Review URL](CodeReview.md)
 
 
 

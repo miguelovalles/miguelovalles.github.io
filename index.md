@@ -7,7 +7,6 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 ```markdown
 
-
 # Artifacts I used for CS-499
 
 ## Category One: Software Design and Engineering
@@ -22,11 +21,9 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 3. MySQL Tasks - Course DAD-220
 
-This is the Link to my [Code Review](http://gofile.me/2ATFw/y7PvIvcgQ).
+This is the URL to download my [code review](http://gofile.me/2ATFw/y7PvIvcgQ).
 
 ```
-
-
-### Support or Contact
+##### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

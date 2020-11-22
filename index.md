@@ -23,7 +23,7 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 #####
 
-4. Link to [Code Review URL](miguelovalles.github.io/CodeReview.md)
+4. Link to [Code Review URL](./CodeReview.md)
 
 
 

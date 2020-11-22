@@ -17,7 +17,7 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 ### Category Three: Databases
 
-3. MySQL Tasks - Course DAD-220 [zooAuthentication Files](https://github.com/miguelovalles/miguelovalles.github.io/tree/main/MySQL)
+3. MySQL Tasks - Course DAD-220 [MySQL Files](https://github.com/miguelovalles/miguelovalles.github.io/tree/main/MySQL)
 
 ### Code Review Link/URL
 

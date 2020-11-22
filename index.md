@@ -22,7 +22,7 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 3. MySQL Tasks - Course DAD-220
 
-Link to Code Review [Code Review] (http://gofile.me/2ATFw/y7PvIvcgQ)
+[Link to Code Review](http://gofile.me/2ATFw/y7PvIvcgQ)
 
 ```
 

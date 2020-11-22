@@ -25,7 +25,7 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 ```
 4. Link to [Code Review URL .md](CodeReview.md) or use this URL to directly download the video. [Code Review Download](http://gofile.me/2ATFw/y7PvIvcgQ).
 ``` markdown two
-** When accessing the video, you will be prompted to download it first **
+**_ When accessing the video, you will be prompted to download it first_ **
 ```
 
 ###### Support or Contact

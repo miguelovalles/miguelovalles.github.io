@@ -22,12 +22,10 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 3. MySQL Tasks - Course DAD-220
 
 ##### Code Review Link/URL
-
+```
 4. Link to [Code Review URL](CodeReview.md)
 
 
-
-```
 ###### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

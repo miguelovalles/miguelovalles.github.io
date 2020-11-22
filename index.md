@@ -1,11 +1,11 @@
-## Welcome to Miguel Ovalles CS-499's GitHub Page
+# Welcome to Miguel Ovalles CS-499's GitHub Page
 
 This GitHub page was created to showcase my project updates for my CS-499 course.
 
 The CS-499 Course is the final course I am taking to complete my Bachelor's Degree in Computer Science.
 
 
-# Artifacts I used for CS-499
+# Artifacts used for CS-499 course!
 
 ### Category One: Software Design and Engineering
 

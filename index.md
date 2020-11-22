@@ -9,15 +9,15 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 ### Category One: Software Design and Engineering
 
-1. zooAuthentication Program - Course: IT-145 [Link to zooAuthentication](https://github.com/miguelovalles/miguelovalles.github.io/tree/main/zooAuthentication)
+1. zooAuthentication Program - Course: IT-145 [zooAuthentication Files](https://github.com/miguelovalles/miguelovalles.github.io/tree/main/zooAuthentication)
 
 ### Category Two: Algorithms and Data Structure
 
-2. zooAuthentication Program - Course: IT-145
+2. zooAuthentication Program - Course: IT-145 [zooAuthentication Files](https://github.com/miguelovalles/miguelovalles.github.io/tree/main/zooAuthentication)
 
 ### Category Three: Databases
 
-3. MySQL Tasks - Course DAD-220
+3. MySQL Tasks - Course DAD-220 [zooAuthentication Files](https://github.com/miguelovalles/miguelovalles.github.io/tree/main/zooAuthentication)
 
 ### Code Review Link/URL
 

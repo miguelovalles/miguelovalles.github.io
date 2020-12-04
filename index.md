@@ -4,6 +4,8 @@ This GitHub page was created to showcase my project updates for my CS-499 course
 
 The CS-499 Course is the final course I am taking to complete my Bachelor's Degree in Computer Science.
 
+''' markdown
+
 # Self-Assessment
 
 	I began my SNHU computer science program in May of 2017. I did not have any prior college or university experience here at SNHU. I graduated high school in 1997 and chose a different career path before ending up here at SNHU some years later. I currently work as a Senior Application Programmer for a pharmaceutical company. I have worked in an IT type role since 2009. I began my IT career working on a help desk and within a few years transitioned to an application and database support person. I currently work as a programmer but the role is more of a business analyst role.
@@ -23,6 +25,8 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 	In my current position and future career goals, I plan to use everything I learned here at SNHU in my computer science program and put my new and sharpened skills to good use. I would like to continue to grow and learn new techniques and applications I can utilize within the computer science field. As my knowledge grows and skill set grows, I can become more versatile and have more opportunities. I can become beneficial to different organizations and groups were my knowledge could be used. Being well rounded in the computer science field is important as different aspects of the work entail you to be. I can assist organizations as a project manager, business analyst or programmer as needed. My education has provided me the benefit of offering multiple technical and professional needs.
 
 Miguel
+
+'''
 
 # Artifacts used for CS-499 course!
 

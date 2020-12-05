@@ -145,7 +145,10 @@ of offering multiple technical and professional needs.
 
 - Link to [Code Review URL .md](CodeReview.md) or use this URL to directly download the video. [Code Review Download](http://gofile.me/2ATFw/y7PvIvcgQ).
 
-***When accessing the video, you will be prompted to download it first***
+***When accessing the video, you will be prompted to download it.***
+***The video is hosted on a personal server.***
 
+Thank You,
+Miguel Ovalles
 
 

@@ -6,7 +6,7 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 # Self-Assessment
 
-```` markdown
+
 I began my SNHU computer science program in May of 2017. I did not have any 
 prior college or university experience here at SNHU. I graduated high school 
 in 1997 and chose a different career path before ending up here at SNHU some
@@ -127,7 +127,7 @@ of the work entail you to be. I can assist organizations as a project manager,
 business analyst or programmer as needed. My education has provided me the benefit 
 of offering multiple technical and professional needs.
 
-````
+
 # Artifacts used for CS-499 course!
 
 ### Category One: Software Design and Engineering

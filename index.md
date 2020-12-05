@@ -123,9 +123,9 @@ I can utilize within the computer science field. As my knowledge grows and skill
 grows, I can become more versatile and have more opportunities. I can become 
 beneficial to different organizations and groups were my knowledge could be used. 
 Being well rounded in the computer science field is important as different aspects
-of the work entail you to be. I can assist organizations as a project manager, business
-analyst or programmer as needed. My education has provided me the benefit of offering
-multiple technical and professional needs.
+of the work entail you to be. I can assist organizations as a project manager, 
+business analyst or programmer as needed. My education has provided me the benefit 
+of offering multiple technical and professional needs.
 
 
 Miguel

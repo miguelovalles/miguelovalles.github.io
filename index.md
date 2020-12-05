@@ -8,9 +8,25 @@ The CS-499 Course is the final course I am taking to complete my Bachelor's Degr
 
 # Self-Assessment
 
-	I began my SNHU computer science program in May of 2017. I did not have any prior college or university experience here at SNHU. I graduated high school in 1997 and chose a different career path before ending up here at SNHU some years later. I currently work as a Senior Application Programmer for a pharmaceutical company. I have worked in an IT type role since 2009. I began my IT career working on a help desk and within a few years transitioned to an application and database support person. I currently work as a programmer but the role is more of a business analyst role.
+	I began my SNHU computer science program in May of 2017. I did not have any prior college or university 
+	experience here at SNHU. I graduated high school in 1997 and chose a different career path before ending 
+	up here at SNHU some years later. I currently work as a Senior Application Programmer for a pharmaceutical 
+	company. I have worked in an IT type role since 2009. I began my IT career working on a help desk and 
+	within a few years transitioned to an application and database support person. I currently work as a 
+	programmer but the role is more of a business analyst role.
 	
-	My education program here at SNHU has introduced me to many new opportunities that I can utilize to further my career. I was able to sharpen skills I already had and learn new ones that will benefit me in the long run. I am detail oriented, determined and professional. SNHU helped sharpen these skills while adding new ones and expanding my knowledge. Throughout my computer science program, I was able to learn and work on different programming languages and applications that I can utilize in the future. I was able to become familiar with Java, MySQL, C++, Python and SAS. I was also able to become familiar with the tools I can use in the future to build my own programs and applications like NetBeans and Eclipse IDE. This program course had us collaborating in groups, showed us how to appropriately communicate with our stakeholders and colleagues as well as work with different data structures, algorithms and software engineering. Communication was used in different aspects throughout our courses. Such as we had to communicate with each other in discussion posts as well as we reviewed our classmates work and provided feedback and generated professional documents towards stakeholders while working on a project management course. 
+	My education program here at SNHU has introduced me to many new opportunities that I can utilize to further
+	my career. I was able to sharpen skills I already had and learn new ones that will benefit me in the long run.
+	I am detail oriented, determined and professional. SNHU helped sharpen these skills while adding new ones and
+	expanding my knowledge. Throughout my computer science program, I was able to learn and work on different 
+	programming languages and applications that I can utilize in the future. I was able to become familiar with 
+	Java, MySQL, C++, Python and SAS. I was also able to become familiar with the tools I can use in the future 
+	to build my own programs and applications like NetBeans and Eclipse IDE. This program course had us collaborating
+	in groups, showed us how to appropriately communicate with our stakeholders and colleagues as well as work with 
+	different data structures, algorithms and software engineering. Communication was used in different aspects 
+	throughout our courses. Such as we had to communicate with each other in discussion posts as well as we reviewed 
+	our classmates work and provided feedback and generated professional documents towards stakeholders while working
+	on a project management course. 
 	
 	Developing my ePortfolio, I needed to refresh my memory while enhancing prior projects. I appreciated this since it allowed me to experience what it would be like to potentially work on someone else’s program or go back and update a program or application I may have created some time ago. I was able to review the code and programs and read through the comments I had added and decide how to update them and make them more complex and efficient. My ePortfolio allowed me to highlight my prior work and show new skills that I have learned. It allowed me to display my programs and how I utilized standards and how I approached required projects. Throughout some of these courses, I was required to work in different areas I had not worked on in the past. I had to learn and think how to approach new projects and problems and find manners of completing the tasks assigned. This is something that is helping prepare me as I move forward in my career. The overall lessons taught us how to appropriately communicate with different audiences, how to work in groups and across potential departments as well as how to approach the many different things we will face in our careers. My IT-328 course allowed me to learn about the different techniques of project management and how to work within a team and how to communicate as a team. 
 	

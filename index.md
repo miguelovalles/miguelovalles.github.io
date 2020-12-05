@@ -2,7 +2,6 @@
 
 This GitHub page was created to showcase my project updates for my CS-499 course.
 
-The CS-499 Course is the final course I am taking to complete my Bachelor's Degree in Computer Science.
 
 # Self-Assessment
 
@@ -149,6 +148,4 @@ of offering multiple technical and professional needs.
 ***When accessing the video, you will be prompted to download it first***
 
 
-###### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

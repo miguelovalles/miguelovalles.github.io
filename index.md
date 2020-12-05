@@ -1,12 +1,12 @@
-# Welcome to Miguel Ovalles CS-499's GitHub Page
+# Welcome to Miguel Ovalles' CS-499's GitHub Page
 
 This GitHub page was created to showcase my project updates for my CS-499 course.
 
 The CS-499 Course is the final course I am taking to complete my Bachelor's Degree in Computer Science.
 
-```` markdown
 # Self-Assessment
 
+```` markdown
 I began my SNHU computer science program in May of 2017. I did not have any 
 prior college or university experience here at SNHU. I graduated high school 
 in 1997 and chose a different career path before ending up here at SNHU some
@@ -126,9 +126,6 @@ Being well rounded in the computer science field is important as different aspec
 of the work entail you to be. I can assist organizations as a project manager, 
 business analyst or programmer as needed. My education has provided me the benefit 
 of offering multiple technical and professional needs.
-
-
-Miguel
 
 ````
 # Artifacts used for CS-499 course!

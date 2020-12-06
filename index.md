@@ -13,7 +13,7 @@ years later. I currently work as a Senior Application Programmer for a
 pharmaceutical company. I have worked in an IT type role since 2009. I began 
 my IT career working on a help desk and within a few years transitioned to 
 an application and database support person. I currently work as a programmer 
-but the roleis more of a business analyst role.
+but the role is more of a business analyst role.
 	
 My education program here at SNHU has introduced me to many new opportunities
 that I can utilize to further my career. I was able to sharpen skills I already

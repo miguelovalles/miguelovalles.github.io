@@ -7,18 +7,19 @@ This GitHub page was created to showcase my project updates for my CS-499 course
 
 
 I began my SNHU computer science program in May of 2017. I did not have any 
-prior college or university experience here at SNHU. I graduated high school 
-in 1997 and chose a different career path before ending up here at SNHU some
-years later. I currently work as a Senior Application Programmer for a 
-pharmaceutical company. I have worked in an IT type role since 2009. I began 
-my IT career working on a help desk and within a few years transitioned to 
-an application and database support person. I currently work as a programmer 
-but the role is more of a business analyst role.
+prior college or university experience before starting here at SNHU. I 
+graduated high school in 1997 and chose a different career path before 
+ending up here at SNHU some years later. I currently work as a Senior
+Application Programmer for a pharmaceutical company. I have worked in 
+an IT of type role since 2009. I began my IT career working on a help desk 
+and within a few years transitioned to an application and database 
+support person. I currently work as a programmer, but the role is 
+more of a business analyst role.
 	
 My education program here at SNHU has introduced me to many new opportunities
 that I can utilize to further my career. I was able to sharpen skills I already
 had and learn new ones that will benefit me in the long run. I am detail 
-oriented, determined and professional. SNHU helped sharpen these skills while 
+oriented, determined, and professional. SNHU helped sharpen these skills while 
 adding new ones and expanding my knowledge. Throughout my computer science 
 program, I was able to learn and work on different programming languages and 
 applications that I can utilize in the future. I was able to become familiar 
@@ -26,7 +27,7 @@ with Java, MySQL, C++, Python and SAS. I was also able to become familiar with
 the tools I can use in the future to build my own programs and applications 
 like NetBeans and Eclipse IDE. This program course had us collaborating in 
 groups, showed us how to appropriately communicate with our stakeholders and 
-colleagues as well as work with different data structures, algorithms and 
+colleagues as well as work with different data structures, algorithms, and 
 software engineering. Communication was used in different aspects throughout 
 our courses. Such as we had to communicate with each other in discussion posts 
 as well as we reviewed our classmates work and provided feedback and generated 
@@ -52,7 +53,7 @@ My IT-328 course allowed me to learn about the different techniques of project
 management and how to work within a team and how to communicate as a team. 
 	
 In collaborating in a team environment, we need to ensure we are in harmony with 
-the other team members. When you work on a program, code or any other technical 
+the other team members. When you work on a program, code, or any other technical 
 project, you need to ensure that what your part does not interfere or potentially 
 break the work that someone else has done. You may be tasked to integrate some 
 code or enhancement into an existing program while someone else works on another 
@@ -69,7 +70,7 @@ was able to work with data structures, algorithms, software engineering and
 databases. An example of software design and engineering was the project I 
 completed for my CS-330 course. For this course, we worked in C++ and worked 
 creating visualization programs. This was the most difficult course I have 
-taken in regard to coding and programming. Many of the languages like Java and 
+taken regarding coding and programming. Many of the languages like Java and 
 Python have similar syntax with some subtle differences. C++ took me by surprise 
 and gave me some trouble initially on how to complete some tasks. The examples 
 and weekly tasks we were provided did help me become more comfortable with it 
@@ -82,7 +83,7 @@ to learn similar to the C++ course. This course was also a little difficult for 
 to pick up initially. It took me hours of trying to understand it better. My 
 determination got me through this course. This course allowed us to understand more 
 of how to manage databases. We had to use CRUD, which stands for create, read, 
-update and delete. These are the necessary actions to manage any database. For this 
+update, and delete. These are the necessary actions to manage any database. For this 
 course and project, we created a database and manipulated it using CRUD using
 RESTful API commands. 
 	
@@ -91,11 +92,11 @@ I have worked with Oracle applications and databases for some years now. Some
 of the courses I took regarding databases were DAT-220, which centered on data 
 mining as well as CS-340, which I mentioned previously. The DAT-220 course 
 showed us how to analyze data and build an analysis plan. We used JMP, which 
-is an analytical tool similar to SAS. SAS actually owns JMP.  I previously 
-analyzed JMP for use at work. It is an impressive and powerful tool. The analysis 
-we did for this course required us to generate visual aids in analyzing data. The 
-data was for a shrimp sales company that had one restaurant and were looking to 
-understand more of where there larger sales were and get a more granular view of 
+is an analytical tool similar to SAS. SAS owns JMP.  I previously analyzed JMP 
+for use at work. It is an impressive and powerful tool. The analysis we did for 
+this course required us to generate visual aids in analyzing data. The data was
+for a shrimp sales company that had one restaurant and were looking to 
+understand more of where their larger sales were and get a more granular view of 
 their sales. I broke down the data analysis into age groups, sales by income of 
 the patrons as well as generated different cluster analyses. 
 
@@ -105,7 +106,7 @@ two projects to make my three enhancements. The two projects do not particularly
 relate to each other aside from displaying the skills I learned in coding. I used 
 the standard practices across both in that I used commenting and proper layout to
 apply to my code. For the DAD-220 course, I needed to create different MySQL queries
-to accomplish different tasks. This didn’t require commenting in the sense that the
+to accomplish different tasks. This did not require commenting in the sense that the
 other project did, but I did add notes where needed to display what task it was 
 relating too as well as what the execution of it would accomplish. The artifact 
 enhancements made me look at previous work and re-familiarize myself with the 

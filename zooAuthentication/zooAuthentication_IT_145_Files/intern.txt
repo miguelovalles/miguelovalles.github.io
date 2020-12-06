@@ -1,0 +1,3 @@
+Hello, Intern!
+
+As an Intern, you have access to some of the animals' information and their daily monitoring logs. This allows you to support the zoo keeper with the feeding habits, habitat conditions, and general welfare.

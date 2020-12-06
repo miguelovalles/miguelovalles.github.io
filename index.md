@@ -129,6 +129,10 @@ of offering multiple technical and professional needs.
 
 # Artifacts used for CS-499 course!
 
+### Main File and Folder Location:
+
+- All Documents: [Documents](https://github.com/miguelovalles/miguelovalles.github.io)
+
 ### Category One: Software Design and Engineering
 
 - zooAuthentication Program - Course: IT-145 [zooAuthentication Files](https://github.com/miguelovalles/miguelovalles.github.io/tree/main/zooAuthentication)

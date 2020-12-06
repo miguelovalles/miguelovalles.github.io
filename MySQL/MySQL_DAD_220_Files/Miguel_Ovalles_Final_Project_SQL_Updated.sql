@@ -167,13 +167,18 @@ SELECT * FROM messaging.contact_list;
 
 /*Task 8 advanced query bulk insert create a csv file with the columns and data*/
 
-BULK INSERT MESSAGING.CONTACT_LIST
-FROM '<Path>\contact_list.csv'
-WITH (FIRSTROW = 2,
-            FIELDTERMINATOR = ',',
-            ROWTERMINATOR = '\n',
-            BATCHSIZE = 500
-            );
+LOAD DATA LOCAL INFILE 'C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\contact_list.csv'
+
+INTO TABLE CONTACT_LIST
+
+FIELDS TERMINATED BY ','
+
+ENCLOSED BY '"'
+
+LINES TERMINATED BY '/n'
+
+IGNORE 1 ROWS;
+
 
 /* Task 9 */
 
